@@ -1,0 +1,5 @@
+# Ignore OS/editor artifacts
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
