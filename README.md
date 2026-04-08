@@ -18,8 +18,9 @@ A clean static website template repository for portfolio and product landing pag
 - `template1/DESIGN.md`: Design language reference used to build the page.
 - `template1/preview.html`: Light-mode token preview from source design pack.
 - `template1/preview-dark.html`: Dark-mode token preview from source design pack.
-- `template1/README.md`: Template-specific notes.
+- `template1/README.md`: Template-specific notes .
 
 ## License
 
 MIT. See `LICENSE`.
+
